@@ -29,7 +29,7 @@ work properly.
 
 ### Step 1 - Install dependencies
 
-Install the `undetected-chromedriver` and `requests` module. You can use the
+Install the **undetected-chromedriver** and **requests** module. You can use the
 `pip` command given below:
 
 ```bash
