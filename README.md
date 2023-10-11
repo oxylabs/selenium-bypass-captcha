@@ -1,4 +1,4 @@
-#How to Bypass CAPTCHA With Selenium & Python
+# How to Bypass CAPTCHA With Selenium & Python
 
 In this tutorial, you’ll learn how to handle CAPTCHA tests in Selenium
 and Python using
